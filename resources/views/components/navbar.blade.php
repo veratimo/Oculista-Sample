@@ -37,7 +37,7 @@
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a id="" class="nav-link" href="">Exhibition</a>
+                            <a id="" class="nav-link" href="">Blog</a>
                         </li>
                         <li class="nav-item">
                             <a id="" class="nav-link" href="{{Route('contatti')}}">Contact</a>
